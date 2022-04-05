@@ -1,0 +1,15 @@
+.navigation {
+  border-bottom: 2px solid white;
+  padding: 1.5rem;
+  font-size: 2rem;
+
+  a {
+    color: #000;
+    text-decoration: none;
+    padding: 0.4rem;
+
+    &.active {
+      color: #61dafb;
+    }
+  }
+}
